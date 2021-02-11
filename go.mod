@@ -1,4 +1,4 @@
-module github.com/khaines/common
+module github.com/khaines/go-common
 
 go 1.15
 
